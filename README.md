@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a **Machine Learning Engineer** passionate about building intelligent systems that actually work in the real world. I specialize in **Generative AI, LLMs, RAG pipelines,** and **Computer Vision** — turning cutting-edge research into production-ready applications.
+I'm a **Machine Learning Engineer**  currently , learning agentic ai .I  specialize in **Generative AI, LLMs, RAG pipelines,** and **Computer Vision** — turning cutting-edge research into production-ready applications.
 
 - 🤖 Currently building with: LangChain · RAG · YOLOv8 · FastAPI
 - 🧠 Deep interest in: LLMs, Prompt Engineering, Real-time CV systems
