@@ -69,7 +69,8 @@ I'm a **Machine Learning Engineer**  currently , learning agentic ai .I  special
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitiiinn&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nitiiinn&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nitiiinn&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&exclude_private=false)
+
 
 </div> 
 
